@@ -29,4 +29,4 @@
 
 <h3>Volte sempre!</h3>
 
-<img align="left" alt="polvo-gif" src="https://discord.com/channels/894370663878508584/894370663878508586/1102982969913786438"/>
+![volte-sempre](https://user-images.githubusercontent.com/68673392/235717277-788b7b2e-3096-4d8d-8f3b-41483609fee6.gif)
