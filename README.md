@@ -1,5 +1,5 @@
 <h1 align="center"> Olá, sejam bem vindos ao meu perfil! Meu nome é Gabriel. 😎</h1>
-<h3> Sou um programador que tem interesse em Data Science e Python e está em busca de constante desenvolvimento. 💻<h3>
+<h3> Sou um programador que tem interesse em desenvolvimento back-end e está em busca de constante desenvolvimento. 💻<h3>
 
 - 🎓 Atualmente estou cursando Ciência da Computação na Universidade Cruzeiro do Sul.
 - ✔ Neste repositório você poderá ver todos os meus projetos e exercícios, junto com minha evolução nas tecnologias que conheço.
