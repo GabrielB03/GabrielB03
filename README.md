@@ -1,11 +1,11 @@
-<h1 align="center"> Olá, sejam bem vindos ao meu perfil! Meu nome é Gabriel. 😎</h1>
-<h3> Sou um programador que tem interesse em desenvolvimento back-end e está em busca de constante desenvolvimento. 💻<h3>
+<h1 align="center"> Hello, welcome to my profile! My name is Gabriel. 😎</h1>
+<h3> I'm a programmer who is interested in back-end development and is looking for constant development. 💻<h3>
 
 - 🎓 Atualmente estou cursando Ciência da Computação na Universidade Cruzeiro do Sul.
-- 💻 Sou programador estagiário no QG do Rolê.
-- ✔ Neste repositório você poderá ver todos os meus projetos e exercícios, junto com minha evolução nas tecnologias que conheço.
+- 💼 I'm a trainee programmer at QG do Rolê.
+- ✔ On this github you can see all my projects and exercises, along with my evolution in the technologies I know.
 
-<h3> Minhas principais tecnologias são: <h3>
+<h3> My main technologies are: <h3>
 <div style="display": "inline-block">
    <p><img align="center" alt="logo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
    <img align="center" alt="logo-Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
@@ -19,15 +19,15 @@
 
   ##
   
-  <p><h3>Meus contatos:</h3></p>
+  <p><h3>My contacts:</h3></p>
   
 <div>
- <p>📧 <em>Email:</em>  <a href = "mailto:wiokya@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"      target="_blank"></a></p><br>
+ <p>📧 <em>E-mail:</em>  <a href = "mailto:wiokya@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"      target="_blank"></a></p><br>
  <p>🌐 <em>LinkedIn:</em>  <a href="https://www.linkedin.com/in/gabriel-bomfim-silva/" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></p>
 </div>
 
 ##
 
-<h3>Volte sempre!</h3>
+<h3>Come back often!</h3>
 
 ![volte-sempre](https://user-images.githubusercontent.com/68673392/235717277-788b7b2e-3096-4d8d-8f3b-41483609fee6.gif)
