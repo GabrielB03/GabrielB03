@@ -1,7 +1,7 @@
 <h1 align="center"> Hello, welcome to my profile! My name is Gabriel. 😎</h1>
 <h3> I'm a programmer who is interested in back-end development and is looking for constant development. 💻<h3>
 
-- 🎓 Atualmente estou cursando Ciência da Computação na Universidade Cruzeiro do Sul.
+- 🎓 I'm currently studying Computer Science at Cruzeiro do Sul University.
 - 💼 I'm a trainee programmer at QG do Rolê.
 - ✔ On this github you can see all my projects and exercises, along with my evolution in the technologies I know.
 
