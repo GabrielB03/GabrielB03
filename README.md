@@ -2,6 +2,7 @@
 <h3> Sou um programador que tem interesse em desenvolvimento back-end e está em busca de constante desenvolvimento. 💻<h3>
 
 - 🎓 Atualmente estou cursando Ciência da Computação na Universidade Cruzeiro do Sul.
+- 💻 Sou programador estagiário no QG do Rolê.
 - ✔ Neste repositório você poderá ver todos os meus projetos e exercícios, junto com minha evolução nas tecnologias que conheço.
 
 <h3> Minhas principais tecnologias são: <h3>
