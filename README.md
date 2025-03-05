@@ -22,8 +22,6 @@
   
   <p><h3>My contacts:</h3></p>
   
-<div>
- <p>📧 <em>E-mail:</em>  <a href = "mailto:wiokya@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"      target="_blank"></a></p><br>
  <p>🌐 <em>LinkedIn:</em>  <a href="https://www.linkedin.com/in/gabriel-bomfim-silva/" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></p>
 </div>
 
