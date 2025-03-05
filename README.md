@@ -16,15 +16,6 @@
    <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
    <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg>
 
-
-
-  ##
-  
-  <p><h3>My contacts:</h3></p>
-  
- <p>🌐 <em>LinkedIn:</em>  <a href="https://www.linkedin.com/in/gabriel-bomfim-silva/" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></p>
-</div>
-
 ##
 
 <h3>Come back often!</h3>
