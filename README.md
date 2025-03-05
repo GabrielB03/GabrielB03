@@ -15,8 +15,6 @@
    <img align="center" alt="logo-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg">
    <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
    <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg>
-   
-   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielb03&hide_progress=true&theme=gotham&show_icons=true&langs_count=20"/></p>
 
 [![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielb03)](https://github.com/gabrielb03/github-readme-stats)
 
