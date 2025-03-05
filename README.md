@@ -16,9 +16,7 @@
    <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
    <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg>
 
-##
 
-[![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielb03)](https://github.com/gabrielb03/github-readme-stats)
 
   ##
   
